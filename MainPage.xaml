@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Integrate.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Integrate"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FFFB4118">
+        <Button x:Name="search" Content="Search" HorizontalAlignment="Left" Margin="297,192,0,0" VerticalAlignment="Top" Click="search_Click" Height="160" Width="205" Background="#FFFB4118" FontSize="20" Foreground="Black" BorderBrush="Black"/>
+        <Button x:Name="addtag" Content="View/Edit" HorizontalAlignment="Left" Margin="845,192,0,0" VerticalAlignment="Top" Click="addtag_Click" Height="160" Width="222" Background="#FFFB4118" FontSize="20" Foreground="Black" BorderBrush="Black"/>
+        <Button x:Name="multibutton" Content="Multi Photo Tag" HorizontalAlignment="Left" Margin="577,499,0,0" VerticalAlignment="Top" Click="multibutton_Click" Height="154" Width="209" FontSize="20" Background="#FFFB4118" Foreground="Black" BorderBrush="Black"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JOHN-PC</Machine>
+    <WindowsUser>Spock</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>772D38BA438400F4991DDF6F3C78CF5E085F3B54CE8CDCA58EBDF8D6E6F4811C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0cc2e1a2-5d51-491c-9edc-b72eb39a5611_1.0.0.0_neutral__fz7bse41p6npe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0cc2e1a2-5d51-491c-9edc-b72eb39a5611_fz7bse41p6npe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0cc2e1a2-5d51-491c-9edc-b72eb39a5611</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Spock</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-13T09:21:29.850</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\Integrate.exe">
+      <PackagePath>Integrate.exe</PackagePath>
+      <Modified>2013-01-13T10:13:40.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\Integrate.pdb">
+      <PackagePath>Integrate.pdb</PackagePath>
+      <Modified>2013-01-13T10:13:40.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\Assets\placeholder-sdk.png">
+      <PackagePath>Assets\placeholder-sdk.png</PackagePath>
+      <Modified>2012-10-26T04:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-01-13T00:04:22.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-13T00:03:59.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\multi.xaml">
+      <PackagePath>multi.xaml</PackagePath>
+      <Modified>2013-01-13T10:10:20.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\ImagingProperties.xaml">
+      <PackagePath>ImagingProperties.xaml</PackagePath>
+      <Modified>2013-01-13T10:07:38.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\Search.xaml">
+      <PackagePath>Search.xaml</PackagePath>
+      <Modified>2013-01-13T10:13:39.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-01-13T10:08:44.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Spock\Documents\Visual Studio 2012\Projects\Integrate_finaltouch\Integrate\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-13T09:21:29.776</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
